@@ -11,6 +11,10 @@ deployment decisions during CAT events. An LLM agent evaluates simulation
 state, proposes interventions, and waits for sponsor approval before
 committing changes — a human-in-the-loop design built for operational trust.
 
+## Demo
+
+[![CAT Claims Optimization — Agentic AI Simulation Demo](https://img.youtube.com/vi/nH5jGABT50k/0.jpg)](https://www.youtube.com/watch?v=nH5jGABT50k)
+
 ## Architecture
 
 | File | Role |
